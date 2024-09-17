@@ -50,7 +50,3 @@ Update the port number, username and password as per your local database config.
       spring.jpa.hibernate.ddl-auto=update
       spring.jpa.show-sql=true
 
-API Root Endpoint
-https://localhost:8080/
-
-http://localhost:8080/swagger-ui/index.html
